@@ -1,0 +1,82 @@
+ [
+      {
+        "DNI": 606438940,
+        "nombre": "Crytonaut",
+        "rutaImagen" : "/imagenes/Multiavatar-Cryptonaut.png"
+      },
+      {
+        "DNI": 680705891,
+        "nombre": "Music Razor",
+        "rutaImagen" : "/imagenes/Multiavatar-Music-Razor.png"
+      },
+      {
+        "DNI": 881949442,
+        "nombre": "Pandalion",
+        "rutaImagen" : "/imagenes/Multiavatar-Pandalion.png"
+      },
+      {
+        "DNI": 428814734,
+        "nombre": "Linux",
+        "rutaImagen" : "/imagenes/Multiavatar-Linux.png"
+      },
+      {
+        "DNI": 423699889,
+        "nombre": "Doge",
+        "rutaImagen" : "/imagenes/Multiavatar-Doge.png"
+      },
+      {
+        "DNI": 218525566,
+        "nombre": "Kim Patel",
+        "rutaImagen" : "/imagenes/Multiavatar-Kim-Patel.png"
+      },
+      {
+        "DNI": 881949440,
+        "nombre": "Nigel Ziemssen",
+        "rutaImagen" : "/imagenes/Multiavatar-Nigel-Ziemssen.png"
+      },
+      {
+        "DNI": 635259783,
+        "nombre": "Major Machine",
+        "rutaImagen" : "/imagenes/Multiavatar-Major-Machine.png"
+      },
+      {
+        "DNI": 878688447,
+        "nombre": "Extremadura",
+        "rutaImagen" : "/imagenes/Multiavatar-Extremadura.png"
+      },
+      {
+        "DNI": 644574922,
+        "nombre": "Bruno Fox",
+        "rutaImagen" : "/imagenes/Multiavatar-Bruno-Fox.png"
+      },
+      {
+        "DNI": 916344872,
+        "nombre": "Morty",
+        "rutaImagen" : "/imagenes/Multiavatar-Morty.png"
+      },
+      {
+        "DNI": 644574921,
+        "nombre": "BTC",
+        "rutaImagen" : "/imagenes/Multiavatar-BTC.png"
+      },
+      {
+        "DNI": 544228728,
+        "nombre": "Dogecoin",
+        "rutaImagen" : "/imagenes/Multiavatar-Dogecoin.png"
+      },
+      {
+        "DNI": 581018945,
+        "nombre": "Landlady",
+        "rutaImagen" : "/imagenes/Multiavatar-Landlady.png"
+      },
+      {
+        "DNI": 297707315,
+        "nombre": "Shack",
+        "rutaImagen" : "/imagenes/Multiavatar-Shack.png"
+      },
+      {
+        "DNI": 531808563,
+        "nombre": "Apoc State",
+        "rutaImagen" : "/imagenes/Multiavatar-Apoc-State.png"
+      }
+    ]

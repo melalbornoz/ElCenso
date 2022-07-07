@@ -1,0 +1,338 @@
+[
+  {
+      "identificador": 0, 
+      "cuadras":[
+       {
+         "nombre": "M0-O"
+       },
+       {
+         "nombre": "M0-N"
+       },
+       {
+         "nombre": "M0-M1"
+       },
+       {
+         "nombre": "M0-M4"
+       }
+     ],
+       "ubicacion":{
+       "latitud": -41.147245,
+       "longitud": -71.304049
+     }
+   },
+   {
+    "identificador": 1,
+     "cuadras":[
+       {
+         "nombre": "M0-M1"
+       },
+       {
+         "nombre": "M1-O"
+       },
+       {
+         "nombre": "M1-M2"
+       },
+       {
+         "nombre": "M1-M5"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.146411,
+       "longitud": -71.304117
+     }
+   },
+   {
+    "identificador": 2,
+     "cuadras":[
+       {
+         "nombre": "M1-M2"
+       },
+       {
+         "nombre": "M2-O"
+       },
+       {
+         "nombre": "M2-M3"
+       },
+       {
+         "nombre": "M2-M6"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.145712,
+       "longitud": -71.303980
+     }   
+   },
+   {
+    "identificador": 3,
+     "cuadras":[
+       {
+         "nombre": "M2-M3"
+       },
+       {
+         "nombre": "M3-O"
+       },
+       {
+         "nombre": "M3-S"
+       },
+       {
+         "nombre": "M3-M7"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.144785,
+       "longitud": -71.303961
+     }
+   },
+   {
+    "identificador": 4,
+     "cuadras":[
+       {
+         "nombre": "M4-N"
+       },
+       {
+         "nombre": "M0-M4"
+       },
+       {
+         "nombre": "M4-M5"
+       },
+       {
+         "nombre": "M4-M8"
+       }
+     ],
+     "ubicacion":{
+       "latitud": -41.147470,
+       "longitud": -71.302940
+     }
+   },
+   {
+    "identificador": 5,
+     "cuadras":[
+       {
+         "nombre": "M4-M5"
+       },
+       {
+         "nombre": "M1-M5"
+       },
+       {
+         "nombre": "M5-M6"
+       },
+       {
+         "nombre": "M5-M9"
+       }
+     ],
+         "ubicacion":{
+       "latitud": -41.146534,
+       "longitud": -71.302688
+     }
+  },
+   {
+    "identificador": 6,
+     "cuadras":[
+       {
+         "nombre": "M5-M6"
+       },
+       {
+         "nombre": "M2-M6"
+       },
+       {
+         "nombre": "M6-M7"
+       },
+       {
+         "nombre": "M6-M10"
+       }
+     ],
+     "ubicacion":{
+       "latitud": -41.145841,
+       "longitud": -71.302671
+     }
+   },
+   {
+    "identificador": 7,
+     "cuadras":[
+       {
+         "nombre": "M6-M7"
+       },
+       {
+         "nombre": "M3-M7"
+       },
+       {
+         "nombre": "M7-S"
+       },
+       {
+         "nombre": "M7-M11"
+       }
+     ],
+     "ubicacion":{
+       "latitud": -41.145144,
+       "longitud": -71.302501
+     }
+   },
+   {
+    "identificador": 8,
+     "cuadras":[
+       {
+         "nombre": "M8-O"
+       },
+       {
+         "nombre": "M4-M8"
+       },
+       {
+         "nombre": "M8-M9"
+       },
+       {
+         "nombre": "M8-M12"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.147532,
+       "longitud": -71.301593
+     }
+   },
+   {
+   "identificador": 9,
+     "cuadras":[
+       {
+         "nombre": "M8-M9"
+        },
+        {
+         "nombre": "M5-M9"
+        },
+        {
+         "nombre": "M9-M10"
+        },
+        {
+         "nombre": "M9-M13"
+       }
+     ],
+     "ubicacion":{
+       "latitud": -41.146720,
+       "longitud": -71.301186
+     }
+   },
+   {
+     "identificador": 10,
+     "cuadras":[
+       {
+         "nombre": "M9-M10"
+        },
+        {
+         "nombre": "M6-M10"
+        },
+        {
+         "nombre": "M10-M11"
+        },
+        {
+         "nombre": "M10-M14"
+        }
+     ],
+       "ubicacion":{
+       "latitud": -41.146005,
+       "longitud": -71.301099
+     }
+   },
+   {
+    "identificador": 11,
+     "cuadras":[
+       {
+         "nombre": "M10-M11"
+       },
+       {
+         "nombre": "M7-M11"
+       },
+       {
+         "nombre": "M11-E"
+       },
+       {
+         "nombre": "M11-M15"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.145207,
+       "longitud": -71.301049
+     }
+   },
+   {
+   "identificador": 12,
+     "cuadras":[
+       {
+         "nombre": "M12-O"
+       },
+       {
+         "nombre": "M8-M12"
+       },
+       {
+         "nombre": "M12-M13"
+       },
+       {
+         "nombre": "M12-S"
+       }
+     ],
+     "ubicacion":{
+       "latitud": -41.147677,
+       "longitud": -71.300024
+     }
+   },
+   {
+    "identificador": 13,
+     "cuadras":[
+       {
+         "nombre": "M12-M13"
+       },
+       {
+         "nombre": "M9-M13"
+       },
+       {
+         "nombre": "M13-M14"
+       },
+       {
+         "nombre": "M13-S"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.146851,
+       "longitud": -71.299847
+     }
+   },
+   {
+    "identificador": 14,
+     "cuadras":[
+       {
+         "nombre": "M13-M14"
+       },
+       {
+         "nombre": "M10-M14"
+       },
+       {
+         "nombre": "M14-M15"
+       },
+       {
+         "nombre": "M14-S"
+       }
+     ],
+      "ubicacion":{
+       "latitud": -41.146087,
+       "longitud": -71.299877
+     }
+   },
+   {
+     "identificador": 15,
+     "cuadras":[
+       {
+         "nombre": "M14-M15"
+       },
+       {
+         "nombre": "M11-M15"
+       },
+       {
+         "nombre": "M15-E"
+       },
+       {
+         "nombre": "M15-S"
+       }
+     ],
+     "ubicacion":{
+       "latitud": -41.145272,
+       "longitud": -71.299770
+    }  
+   }
+ ]
